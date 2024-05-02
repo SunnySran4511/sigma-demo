@@ -1,2 +1,2 @@
 # sigma-demo
-just a demo for github 
+just a demo for github.
